@@ -9,7 +9,7 @@ Original author of BOOM v1 and v2. Currently works at Esperanto Technologies.
 
 ## Jerry Zhao 
 
-Undergraduate 4th year student at UC Berkeley. Working on implementing the vector extension in BOOM.
+Senior Undergraduate at UC Berkeley under Krste Asanovic.
 
 ## Abraham Gonzalez 
 
