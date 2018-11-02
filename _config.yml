@@ -75,6 +75,7 @@ social-network-links:
 #  rss: true
     email: "https://groups.google.com/forum/#!forum/riscv-boom"
     github: "https://github.com/ucb-bar/riscv-boom"
+    twitter: "https://twitter.com/boom_cpu"
 
 # Select which share links to show in posts
 share-links-active:
@@ -85,7 +86,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "boom-core.org"
+url-pretty: "riscv-boom.github.io"
 
 # --- Web Statistics Section --- #
 
