@@ -9,15 +9,15 @@ Original author of BOOM v1 and v2. Currently works at [Esperanto Technologies](h
 
 ## Jerry Zhao 
 
-Senior Undergraduate at UC Berkeley under Krste Asanovic.
+Senior undergraduate at UC Berkeley working in the ADEPT lab
 
 ## Abraham Gonzalez 
 
-Graduate student at UC Berkeley under Krste Asanovic
+Graduate student at UC Berkeley advised by Krste Asanovic
 
 ## Ben Korpan 
 
-Graduate student at UC Berkeley under Krste Asanovic
+Graduate student at UC Berkeley advised by Krste Asanovic
 
 ## Krste Asanovic
 

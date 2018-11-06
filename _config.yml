@@ -24,7 +24,7 @@ description: RISC-V BOOM
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  GitHub: "https://github.com/ucb-bar/riscv-boom"
+  GitHub: "https://github.com/riscv-boom/riscv-boom"
   News: "news"
   Resources:
     - Publications: "publications"
@@ -74,7 +74,7 @@ author:
 social-network-links:
 #  rss: true
     email: "https://groups.google.com/forum/#!forum/riscv-boom"
-    github: "https://github.com/ucb-bar/riscv-boom"
+    github: "https://github.com/riscv-boom/riscv-boom"
     twitter: "https://twitter.com/boom_cpu"
 
 # Select which share links to show in posts
