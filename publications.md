@@ -17,6 +17,8 @@ Technical Report No. UCB/EECS-2015-167, Berkeley, CA, June 2015.
 Speaker: Christopher Celio. BROOM: An open-source Out-of-Order processor with resilient low-voltage operation in 28nm CMOS.
 Hot Chips 30 Conference, Cupertino, CA, August 2018.
 
+[Slides](docs/HC30.Berkeley.Celio-Chiu.final.pdf)
+
 ### [1st CARRV Workshop](https://carrv.github.io/2017/): BOOM v2: an open-source out-of-order RISC-V core 
 Christopher Celio, Pi-Feng Chiu, Borivoje Nikolic, David A. Patterson and Krste Asanović. BOOM v2: an open-source out-of-order RISC-V core.
 Technical Report No. UCB/EECS-2017-157, Berkeley, CA, September 2017.
