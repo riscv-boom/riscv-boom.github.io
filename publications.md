@@ -13,13 +13,20 @@ Technical Report No. UCB/EECS-2015-167, Berkeley, CA, June 2015.
 
 ## Conference Talks
 
+### [Chisel Community Conference 2018](https://chisel-community-conference.org/): BOOM: An open-source out-of-order processor and the BOOM Project
+Speaker: Christopher Celio, Jerry Zhao, Abraham Gonzalez, Ben Korpan. BOOM: An open-source out-of-order processor and the BOOM Project.
+Chisel Community Conference 2018, Berkeley, CA, November 2018.
+
+[Slides: Processor](docs/boom_processor_ccc18_celio.pdf) |
+[Slides: Project](docs/boom_project_ccc18_zhao_gonza_korpan.pdf)
+
 ### [HC30 Conference](http://www.hotchips.org/archives/2010s/hc30/): BROOM: An open-source Out-of-Order processor with resilient low-voltage operation in 28nm CMOS 
 Speaker: Christopher Celio. BROOM: An open-source Out-of-Order processor with resilient low-voltage operation in 28nm CMOS.
 Hot Chips 30 Conference, Cupertino, CA, August 2018.
 
 [Slides](docs/HC30.Berkeley.Celio-Chiu.final.pdf)
 
-### [1st CARRV Workshop](https://carrv.github.io/2017/): BOOM v2: an open-source out-of-order RISC-V core 
+### [1st CARRV Workshop](https://carrv.github.io/2017/): BOOM v2: An open-source out-of-order RISC-V core 
 Christopher Celio, Pi-Feng Chiu, Borivoje Nikolic, David A. Patterson and Krste Asanović. BOOM v2: an open-source out-of-order RISC-V core.
 Technical Report No. UCB/EECS-2017-157, Berkeley, CA, September 2017.
 
