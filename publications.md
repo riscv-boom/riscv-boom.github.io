@@ -19,7 +19,7 @@ Chisel Community Conference 2018, Berkeley, CA, November 2018.
 
 [Slides: Processor](docs/boom_processor_ccc18_celio.pdf) |
 [Slides: Project](docs/boom_project_ccc18_zhao_gonza_korpan.pdf) |
-[Video](https://www.youtube.com/watch?v=sI6Z21ljXsw&t=3035s&index=23&list=PL02hojk7ZTSfSBibxsKdaABnZolPP7z1y)
+[Video](https://youtu.be/sI6Z21ljXsw)
 
 ### [HC30 Conference](http://www.hotchips.org/archives/2010s/hc30/): BROOM: An open-source Out-of-Order processor with resilient low-voltage operation in 28nm CMOS 
 Speaker: Christopher Celio. BROOM: An open-source Out-of-Order processor with resilient low-voltage operation in 28nm CMOS.
