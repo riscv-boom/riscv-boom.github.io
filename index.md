@@ -29,4 +29,4 @@ External Debug |√
 
 ## Getting Started
 
-To get started with RISC-V BOOM, you can find our microarchitectural documentation [here](https://ccelio.github.io/riscv-boom-doc/) and the GitHub organization [here](https://github.com/riscv-boom).
+To get started with RISC-V BOOM, you can find our microarchitectural documentation [here](https://docs.boom-core.org/) and the GitHub organization [here](https://github.com/riscv-boom).

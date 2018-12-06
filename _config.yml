@@ -28,7 +28,7 @@ navbar-links:
   News: "news"
   Resources:
     - Publications: "publications"
-    - Docs: "https://ccelio.github.io/riscv-boom-doc/"
+    - Docs: "https://docs.boom-core.org/"
   Team: "team"
 
 # Image to show in the navigation bar - image must be a square (width = height)
