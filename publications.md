@@ -3,6 +3,14 @@ layout: page
 title: Publications 
 ---
 
+## Thesis
+
+### A Highly Productive Implementation of an Out-of-Order Processor Generator 
+Christopher Celio. A Highly Productive Implementation of an Out-of-Order Processor Generator.
+Technical Report No. UCB/EECS-2018-151, Berkeley, CA, December 2018.
+
+[Thesis](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-151.pdf)
+
 ## Technical Reports
 
 ### The Berkeley Out-of-Order Machine (BOOM): An Industry-Competitive, Synthesizable, Parameterized RISC-V Processor
