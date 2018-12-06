@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.boom-core.org"
+url-pretty: "boom-core.org"
 
 # --- Web Statistics Section --- #
 
