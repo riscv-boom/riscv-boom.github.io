@@ -22,7 +22,7 @@ Parameterized |√
 Floating Point (IEEE 754-2008) |√
 Atomic Memory Op Support |√
 Caches |√
-Viritual Memory |√
+Virtual Memory |√
 Boots Linux |√
 Privileged Arch v1.11 |√
 External Debug |√
