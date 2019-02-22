@@ -57,3 +57,23 @@ Computer Architecture Research Using an Industry-Competitive, Synthesizable, Par
 
 [Slides](https://riscv.org/wp-content/uploads/2015/06/riscv-boom-workshop-june2015.pdf) |
 [Video](https://www.youtube.com/watch?v=z8UInbiQbdA)
+
+## Other Works Using BOOM
+
+These are a selected set of other publications and works that use BOOM. If you are interested in adding a paper/work that uses BOOM to this list, please reach out to the BOOM developers.
+
+### [Evaluation of RISC-V RTL with FPGA-Accelerated Simulation](carrv.github.io/2017/papers/kim-midas-carrv2017.pdf)
+
+### [DESSERT: Debugging RTL Effectively with State Snapshotting for Error Replays across Trillions of Cycles](https://ieeexplore.ieee.org/abstract/document/8533471)
+
+### [Wasted dynamic power and correlation to instruction set architecture for CPU throttling](https://link.springer.com/article/10.1007/s11227-018-2637-6)
+
+### [Data Oblivious ISA Extensions for Side Channel-Resistant and High Performance Computing](https://eprint.iacr.org/2018/808.pdf)
+
+### [A low-cost synthesizable RISC-V dual-issue processor core leveraging the compressed Instruction Set Extension](https://www.sciencedirect.com/science/article/pii/S0141933118300048)
+
+### [Optimizing temperature guardbands](https://ieeexplore.ieee.org/abstract/document/7926978)
+
+### [RISC5: Implementing the RISC-V ISA in gem5](https://carrv.github.io/2017/papers/roelke-risc5-carrv2017.pdf)
+
+### See the following Google Scholar links to see more! [Here](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=2005&cites=4676403499978081519&scipsc=) and [here](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11532603913593561987&as_sdt=5)
