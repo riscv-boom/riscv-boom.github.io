@@ -27,7 +27,8 @@ navbar-links:
   GitHub: "https://github.com/riscv-boom"
   News: "news"
   Resources:
-    - Publications: "publications"
+    - BOOM Publications: "boom-publications"
+    - User Publications: "user-publications"
     - Docs: "https://docs.boom-core.org/"
   Team: "team"
 
