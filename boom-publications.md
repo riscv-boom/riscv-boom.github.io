@@ -26,7 +26,7 @@ Speaker: Jerry Zhao, Abraham Gonzalez. Replicating and Mitigating Spectre Attack
 3rd Workshop on Computer Architecture Research with RISC-V 2019. Phoenix, AZ. June 2019.
 
 [Paper](https://carrv.github.io/2019/papers/carrv2019_paper_5.pdf) |
-[Slides: Processor](docs/replicating_mitigating_spectre_carrv19.pdf)
+[Slides](docs/replicating_mitigating_spectre_carrv19.pdf)
 
 ### [Chisel Community Conference 2018](https://chisel-community-conference.org/): BOOM: An open-source out-of-order processor and the BOOM Project
 Speaker: Christopher Celio, Jerry Zhao, Abraham Gonzalez and Ben Korpan. BOOM: An open-source out-of-order processor and the BOOM Project.
