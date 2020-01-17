@@ -3,6 +3,7 @@ layout: page
 title: RISC-V BOOM 
 subtitle: The Berkeley Out-of-Order RISC-V Processor 
 use-site-title: true
+bigimg: /img/large-block-diagram.jpg
 ---
 
 The Berkeley Out-of-Order Machine (BOOM) is a synthesizable and parameterizable open

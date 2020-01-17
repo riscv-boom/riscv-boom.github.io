@@ -25,8 +25,9 @@ description: RISC-V BOOM
 navbar-links:
   Home: "index"
   GitHub: "https://github.com/riscv-boom"
-  News: "news"
+  Mailing List: "https://groups.google.com/forum/#!forum/riscv-boom"
   Resources:
+    - News: "news"
     - BOOM Publications: "boom-publications"
     - User Publications: "user-publications"
     - Docs: "https://docs.boom-core.org/"
